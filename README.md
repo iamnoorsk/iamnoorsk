@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ejaaz Khan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP, Python
+- 🌱 I’m currently learning PHP, Java, Javascript
 - 💞️ I’m looking to collaborate on Opensource Projects
-- 📫 Reach me ejaazrkhan@gmail.com
+- 📫 Reach me ssknoor2672@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=iamnoorsk&color=blue)
 
