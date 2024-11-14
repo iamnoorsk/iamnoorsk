@@ -6,8 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=iamnoorsk&color=blue)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnoorsk&count_private=true&show_icons=true)
-
 ![Ejaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnoorsk&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnoorsk&layout=compact&count_private=true&show_icons=true)
