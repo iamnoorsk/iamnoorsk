@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ejaaz Khan
+- 👋 Hi, I’m Noor Shaikh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PHP, Java, Javascript
 - 💞️ I’m looking to collaborate on Opensource Projects
