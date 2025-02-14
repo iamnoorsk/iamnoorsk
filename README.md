@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Noor Shaikh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP, Java, Javascript
 - 💞️ I’m looking to collaborate on Opensource Projects
 - 📫 Reach me ssknoor2672@gmail.com
 
